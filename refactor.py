@@ -1,6 +1,5 @@
 import rope.base.project
 from rope.refactor.move import create_move
-from rope.base import libutils
 
 p = rope.base.project.Project('/Users/david/Desktop/ropetest/exproject')
 
